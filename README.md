@@ -125,9 +125,11 @@ class AIEngineer:
 | 📝 **Technical Articles** | 25+ on AI/ML topics |
 | 🌟 **Open Source Contributions** | 50+ repositories |
 
-</div>
+### 🪐 Open Source & Community Badges  
 
+[![An image of @nithadya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nithadya)](https://holopin.io/@nithadya)
 ---
+</div>
 
 ## 🌐 **Professional Network**
 
